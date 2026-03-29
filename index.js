@@ -38,7 +38,7 @@ function findLargest(numbers) {
 /**
  * @param {string} str The string to check.
  * @returns {boolean} True if the string is a palindrome, false otherwise.
- * A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g., madam or racecar.
+ * A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g., madam or racecar..
  * The check should be case-insensitive.
  */
 function isPalindrome(str) {
